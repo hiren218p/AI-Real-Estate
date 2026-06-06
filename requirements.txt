@@ -1,0 +1,14 @@
+streamlit
+openai
+langchain
+pandas
+requests
+beautifulsoup4
+reportlab
+scikit-learn
+google-generativeai
+python-dotenv
+streamlit
+python-dotenv
+google-generativeai
+reportlab

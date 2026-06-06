@@ -1,0 +1,19 @@
+{
+    "Prestige Group": {
+        "location": "Bangalore",
+        "projects": [
+            "Prestige Lakeside",
+            "Prestige Falcon City"
+        ],
+        "type": "Residential"
+    },
+
+    "Adani Realty": {
+        "location": "Ahmedabad",
+        "projects": [
+            "Shantigram",
+            "Aangan"
+        ],
+        "type": "Residential and Commercial"
+    }
+}

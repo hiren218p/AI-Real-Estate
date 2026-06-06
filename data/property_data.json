@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Skyline Residency",
+        "location": "Ahmedabad",
+        "type": "3 BHK",
+        "price": 7500000
+    },
+    {
+        "name": "Green Valley",
+        "location": "Bangalore",
+        "type": "2 BHK",
+        "price": 6000000
+    },
+    {
+        "name": "Luxury Heights",
+        "location": "Mumbai",
+        "type": "4 BHK",
+        "price": 15000000
+    }
+]
