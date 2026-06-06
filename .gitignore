@@ -1,5 +1,18 @@
-.env
+# Python cache
 __pycache__/
 *.pyc
-realestate_history.db
-.vscode/
+
+# Environment
+.env
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
